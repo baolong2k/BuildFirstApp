@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BuildFirstApp</string>
+    <string name="send">SEND</string>
+    <string name="enter_message">Enter Message</string>
+</resources>
